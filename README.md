@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ### Languages
-[![Hyun's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyun7en&theme=dracula&layout=compact&hide=javascript,html,jupyter%20notebook&exclude_repo=python-vaction)](https://github.com/anuraghazra/github-readme-stats)
+![Hyun's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyun7en&layout=compact)
 
 ### GitHub stats
-[![Hyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyun7en&show_icons=true&theme=cobalt&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![Hyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyun7en&show_icons=true&theme=radical)
 
 ### Solved.ac
 [![Solved.ac
