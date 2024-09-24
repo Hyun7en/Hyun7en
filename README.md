@@ -24,3 +24,7 @@ Here are some ideas to get you started:
 ### Solved.ac
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=Tailstar73)](https://solved.ac/Tailstar73)
+/line
+
+
+/line
