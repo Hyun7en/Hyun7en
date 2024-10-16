@@ -1,4 +1,4 @@
-## 기술적 흐름에 휩쓸리지 않는 개발자를 추구하는  👋
+##   👋
 
 <!--
 **Hyun7en/Hyun7en** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
