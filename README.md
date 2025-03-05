@@ -5,7 +5,8 @@
   
   ![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Hello,%20I'm%20Hyun&color=auto)
   
-  <h3>😎 Introduction 😎</h3>
+  <h3> Introduction </h3>
+  
    ## Get Your Hands Dirt
 
   <br><br>
