@@ -3,7 +3,7 @@
 
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Hello,%20I'm%20Hyun&color=auto)
+  ![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Why?&color=auto)
   
    ## Get Your Hands Dirt
 
