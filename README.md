@@ -5,8 +5,6 @@
   
   ![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Hello,%20I'm%20Hyun&color=auto)
   
-  <h3> Introduction </h3>
-  
    ## Get Your Hands Dirt
 
   <br><br>
@@ -15,7 +13,8 @@
   [![Gmail Badge](http://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rhqudgus99@gmail.com)](mailto:rhqudgus99@gmail.com)
 
   <br>
-  <h3>⚡ Skill ⚡</h3>
+  
+  ### skill
   
   ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
   ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -28,7 +27,8 @@
   ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
   <br>
-  <h3>📖 Studying 📖</h3>
+  
+  ### Studying
 
   ![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -37,7 +37,6 @@
   ![rabbitmq](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
 
   <br>
-  <h3>🎖️ BOJ tier 🎖️<h3>
 
   ### Solved.ac
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=Tailstar73)](https://solved.ac/Tailstar73)<br>
