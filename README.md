@@ -43,15 +43,6 @@ Spring 기반 백엔드 개발을 지향하며,
 ![CSS](https://img.shields.io/badge/CSS3-239120?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<br><br>
-
-##  Featured Project
-### 실시간 가격 알림 시스템
-- Kafka 기반 비동기 이벤트 처리
-- Email / SMS / Discord DM 알림 지원
-- Spring Boot + JPA + Docker
-- **왜 Kafka를 사용했는지**, 동기 처리 대비 장단점 정리
-
 <br>
 
 ## 🧠 Algorithm
