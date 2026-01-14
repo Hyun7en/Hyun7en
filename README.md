@@ -2,7 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=280&text=Why?&color=auto)
 
-### Backend Developer  
 ### “I believe that before using a technology, one should be able to clearly explain why it is being used.”
 
 <br>
