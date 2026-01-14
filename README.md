@@ -11,8 +11,7 @@
 <br><br>
 
 ##  Contact
-[![Gmail Badge](http://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rhqudgus99@gmail.com)](mailto:rhqudgus99@gmail.com)
-
+- email : rhqudgus99@gmail.com
 <br><br>
 
 ##  Core Skills
