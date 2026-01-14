@@ -43,9 +43,5 @@ E-mail : rhqudgus99@gmail.com
 ## 🧠 Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Tailstar73)](https://solved.ac/Tailstar73)
 
-<br><br>
-
-## 📊 GitHub Stats
-![github stats](https://github-readme-stats.vercel.app/api?username=Hyun7en&show_icons=true)
 
 </div>
