@@ -22,7 +22,6 @@ Spring 기반 백엔드 개발을 지향하며,
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br>
@@ -30,6 +29,7 @@ Spring 기반 백엔드 개발을 지향하며,
 ##  Experience
 > 사용 경험이 있으며 동작 원리와 한계를 학습 중인 기술
 
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
