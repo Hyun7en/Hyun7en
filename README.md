@@ -24,7 +24,6 @@ Spring 기반 백엔드 개발을 지향하며,
 ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-232F3E?style=for-the-badge&logo=kafka&logoColor=white)
 
 <br>
 
@@ -34,6 +33,8 @@ Spring 기반 백엔드 개발을 지향하며,
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-232F3E?style=for-the-badge&logo=kafka&logoColor=white)
+
 
 <br>
 
