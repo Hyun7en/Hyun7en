@@ -3,12 +3,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=280&text=Why?&color=auto)
 
 ### Backend Developer  
-### “기술을 쓰기 전에, 왜 쓰는지부터 설명할 수 있어야 한다고 생각합니다.”
+### “I believe that before using a technology, one should be able to clearly explain why it is being used.”
 
 <br>
 
-Spring 기반 백엔드 개발을 지향하며,  
-비동기 처리와 메시징 시스템에서 **기술 선택의 이유와 트레이드오프**를 고민합니다.
 
 <br><br>
 
@@ -18,7 +16,6 @@ Spring 기반 백엔드 개발을 지향하며,
 <br><br>
 
 ##  Core Skills
-> 실제 프로젝트에서 사용하며 구조와 선택 이유를 설명할 수 있는 기술
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -27,7 +24,6 @@ Spring 기반 백엔드 개발을 지향하며,
 <br>
 
 ##  Experience
-> 사용 경험이 있으며 동작 원리와 한계를 학습 중인 기술
 
 ![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
