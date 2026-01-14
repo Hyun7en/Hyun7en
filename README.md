@@ -12,12 +12,12 @@ Spring 기반 백엔드 개발을 지향하며,
 
 <br><br>
 
-## ✉️ Contact
+##  Contact
 [![Gmail Badge](http://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rhqudgus99@gmail.com)](mailto:rhqudgus99@gmail.com)
 
 <br><br>
 
-## 🛠 Core Skills
+##  Core Skills
 > 실제 프로젝트에서 사용하며 구조와 선택 이유를 설명할 수 있는 기술
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -27,7 +27,7 @@ Spring 기반 백엔드 개발을 지향하며,
 
 <br>
 
-## 🔧 Experience
+##  Experience
 > 사용 경험이 있으며 동작 원리와 한계를 학습 중인 기술
 
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
@@ -38,14 +38,14 @@ Spring 기반 백엔드 개발을 지향하며,
 
 <br>
 
-## 🎨 Frontend (Basic)
+##  Frontend (Basic)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-239120?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 <br><br>
 
-## 🚀 Featured Project
+##  Featured Project
 ### 실시간 가격 알림 시스템
 - Kafka 기반 비동기 이벤트 처리
 - Email / SMS / Discord DM 알림 지원
