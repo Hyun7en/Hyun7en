@@ -11,7 +11,7 @@
 <br><br>
 
 ##  Contact
-- email : rhqudgus99@gmail.com
+E-mail : rhqudgus99@gmail.com
 <br><br>
 
 ##  Core Skills
