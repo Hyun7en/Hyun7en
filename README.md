@@ -39,7 +39,7 @@ E-mail : rhqudgus99@gmail.com
 
 <br>
 
-## 🧠 Algorithm
+## Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Tailstar73)](https://solved.ac/Tailstar73)
 
 
